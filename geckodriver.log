@@ -1,0 +1,548 @@
+1698374903221	geckodriver	INFO	Listening on 127.0.0.1:53723
+1698374906269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileoaKmNd"
+1698375127470	geckodriver	INFO	Listening on 127.0.0.1:53789
+1698375130482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofilen6mvSg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698375130755	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698375130849	Marionette	INFO	Listening on port 53801
+WebDriver BiDi listening on ws://127.0.0.1:53790
+Read port: 53801
+1698375131023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53790/devtools/browser/a32edfb7-97f4-42b5-85fc-95575f8042a4
+1698375161178	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698375476120	Marionette	INFO	Stopped listening on port 53801
+Dynamically enable window occlusion 1
+o-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileNfUBIN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698375269814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698375269906	Marionette	INFO	Listening on port 53888
+WebDriver BiDi listening on ws://127.0.0.1:53877
+Read port: 53888
+1698375270067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53877/devtools/browser/f765c1be-2bcf-4ed0-b1f3-b2bd4c7337ea
+1698375300230	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698375479510	Marionette	INFO	Stopped listening on port 53888
+Dynamically enable window occlusion 1
+1698375496266	geckodriver	INFO	Listening on 127.0.0.1:53986
+1698375499327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofiledqqvaP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698375499743	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698375499831	Marionette	INFO	Listening on port 53995
+WebDriver BiDi listening on ws://127.0.0.1:53987
+Read port: 53995
+1698375500193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53987/devtools/browser/ee714050-e2e1-4fe6-96fd-45ca84aac13a
+1698375530789	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698375602620	Marionette	INFO	Stopped listening on port 53995
+Dynamically enable window occlusion 1
+o-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileNRHBDW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698375597619	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698375597715	Marionette	INFO	Listening on port 54092
+WebDriver BiDi listening on ws://127.0.0.1:54084
+Read port: 54092
+1698375597890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54084/devtools/browser/354e277e-7207-41b2-a3df-ba66bf826b79
+1698375627990	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698375770129	Marionette	INFO	Stopped listening on port 54092
+Dynamically enable window occlusion 1
+o-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileekstY6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698375754550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698375754642	Marionette	INFO	Listening on port 54178
+WebDriver BiDi listening on ws://127.0.0.1:54167
+Read port: 54178
+1698375754856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54167/devtools/browser/9a7e3afb-8e74-4c22-a447-73d1ca8ed980
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, 1698375776847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileeSr3Dr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698375777116	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698375777208	Marionette	INFO	Listening on port 54237
+WebDriver BiDi listening on ws://127.0.0.1:54229
+Read port: 54237
+1698375777399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54229/devtools/browser/2d0fa18a-a3a8-47ad-9151-cbaa79948c8d
+1698375807204	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698376511250	Marionette	INFO	Stopped listening on port 54237
+Dynamically enable window occlusion 1
+o-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofilePS82vg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698375875114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698375875209	Marionette	INFO	Listening on port 54324
+WebDriver BiDi listening on ws://127.0.0.1:54317
+Read port: 54324
+1698375875350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54317/devtools/browser/305e88cd-3d7b-4d59-8c90-68087a20d29f
+1698375908161	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698376512298	Marionette	INFO	Stopped listening on port 54324
+Dynamically enable window occlusion 1
+o-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofile9uI3p1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698376199732	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698376199823	Marionette	INFO	Listening on port 54433
+WebDriver BiDi listening on ws://127.0.0.1:54425
+Read port: 54433
+1698376200007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54425/devtools/browser/337159b5-5fcf-419e-8913-77932c586fb0
+1698376229990	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320, line 102: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:15557
+EventListener.handleEvent*nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:15707
+g@https://js-agent.newrelic.com/nr-spa-1.246.0.min.js:2:82364
+8085/j/<@https://js-agent.newrelic.com/nr-spa-1.246.0.min.js:2:85087
+R@https://js-agent.newrelic.com/nr-spa-1.246.0.min.js:2:83092
+j@https://js-agent.newrelic.com/nr-spa-1.246.0.min.js:2:84858
+9766@https://js-agent.newrelic.com/nr-spa-1.246.0.min.js:2:42802
+i@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:30050
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:15707
+promise callback*L/</a.prototype.then@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:20754
+n@https://js-agent.newrelic.com/nr-spa-1.246.0.min.js:2:79764
+a@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:34740
+async*importAggregator/<@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:35028
+EventListener.handleEvent*s@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:10121
+o@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:13411
+importAggregator@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:35022
+C@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:37188
+run/<@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:49552
+run@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:48995
+@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:48580
+@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:48197
+@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:53049
+@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:53053
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1698376425882	Marionette	INFO	Stopped listening on port 54433
+Dynamically enable window occlusion 1
+1698376430023	geckodriver	INFO	Listening on 127.0.0.1:54533
+1698376433054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileJcmbfu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698376433312	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698376433401	Marionette	INFO	Listening on port 54542
+WebDriver BiDi listening on ws://127.0.0.1:54534
+Read port: 54542
+1698376433572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54534/devtools/browser/bc23c906-49da-487f-a3f5-5839924a13c3
+1698376466780	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698376513519	Marionette	INFO	Stopped listening on port 54542
+Dynamically enable window occlusion 1
+1698376606343	geckodriver	INFO	Listening on 127.0.0.1:54642
+1698376609479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileTI3JMZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698376609952	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698376610048	Marionette	INFO	Listening on port 54655
+WebDriver BiDi listening on ws://127.0.0.1:54643
+Read port: 54655
+1698376610276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54643/devtools/browser/8e0e16e3-8a71-4442-bdc7-94ea9c816bd6
+1698376640346	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698377202462	Marionette	INFO	Stopped listening on port 54655
+Dynamically enable window occlusion 1
+o-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileV35mWn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698376767736	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698376767828	Marionette	INFO	Listening on port 54735
+WebDriver BiDi listening on ws://127.0.0.1:54727
+Read port: 54735
+1698376767981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54727/devtools/browser/79c7921a-19ff-4743-9578-6b33726a0558
+1698376797754	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/open.do, line 97: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/open.do:97:15557
+
+1698377203463	Marionette	INFO	Stopped listening on port 54735
+Dynamically enable window occlusion 1
+ services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698377036688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698377036911	Marionette	INFO	Listening on port 54823
+WebDriver BiDi listening on ws://127.0.0.1:54815
+Read port: 54823
+1698377037112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54815/devtools/browser/62ed0ebd-b98f-4d74-94ef-1a285e3f014a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698377066744	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320, line 102: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:15557
+
+1698377206377	Marionette	INFO	Stopped listening on port 54823
+Dynamically enable window occlusion 1
+1698377422922	geckodriver	INFO	Listening on 127.0.0.1:54958
+1698377425950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofilePBar0H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698377426622	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698377426717	Marionette	INFO	Listening on port 54967
+WebDriver BiDi listening on ws://127.0.0.1:54959
+Read port: 54967
+1698377426910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54959/devtools/browser/2a9680bf-585f-4798-ae99-9299225d95cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698377457196	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320, line 102: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:15557
+
+1698377594004	Marionette	INFO	Stopped listening on port 54967
+Dynamically enable window occlusion 1
+1698377597432	geckodriver	INFO	Listening on 127.0.0.1:55079
+1698377600470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileviQJCu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698377600734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698377600824	Marionette	INFO	Listening on port 55088
+WebDriver BiDi listening on ws://127.0.0.1:55080
+Read port: 55088
+1698377600999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55080/devtools/browser/6d33a184-b5fc-429b-b5e0-6f0cf6e4e8c5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698377631297	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8ZZ2M02D90000&processo.foro=323&processo.numero=0003069-57.1994.8.26.0323, line 102: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8ZZ2M02D90000&processo.foro=323&processo.numero=0003069-57.1994.8.26.0323:102:15557
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1698377989094	Marionette	INFO	Stopped listening on port 55088
+Dynamically enable window occlusion 1
+1698377992591	geckodriver	INFO	Listening on 127.0.0.1:55210
+1698377995611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofilezxHFcF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698377995917	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698377996017	Marionette	INFO	Listening on port 55218
+WebDriver BiDi listening on ws://127.0.0.1:55211
+Read port: 55218
+1698377996176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55211/devtools/browser/21040381-b48d-43e0-9483-c12771b98e8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698378028561	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320, line 102: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:15557
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1698378225343	Marionette	INFO	Stopped listening on port 55218
+Dynamically enable window occlusion 1
+1698378230084	geckodriver	INFO	Listening on 127.0.0.1:55293
+1698378233266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileeJ46WN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698378234223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698378234315	Marionette	INFO	Listening on port 55301
+WebDriver BiDi listening on ws://127.0.0.1:55294
+Read port: 55301
+1698378234546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55294/devtools/browser/e83a0635-ddb7-4774-8b95-871e59f70d12
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698378264938	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Error parsing mappings (code 1): the mappings contained a negative line, column, source index, or name index
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320, line 102: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:15557
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1698378783003	Marionette	INFO	Stopped listening on port 55301
+Dynamically enable window occlusion 1
+ionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698378659610	Marionette	INFO	Listening on port 55481
+WebDriver BiDi listening on ws://127.0.0.1:55474
+Read port: 55481
+1698378659761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55474/devtools/browser/d2de641c-5e1b-4d45-ae9c-a75bb15aa4d8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698378692164	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320, line 102: Script terminated by timeout at:
+nrWrapper@https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=8W000AEQR0000&processo.foro=320&processo.numero=1007406-36.2021.8.26.0320:102:15557
+
+1698378779907	Marionette	INFO	Stopped listening on port 55481
+Dynamically enable window occlusion 1
+1698378908420	geckodriver	INFO	Listening on 127.0.0.1:55652
+1698378911646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless=new" "--remote-debugging-port"  ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofilebybkci"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698378912613	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-headless"
+1698378912701	Marionette	INFO	Listening on port 55666
+WebDriver BiDi listening on ws://127.0.0.1:55653
+Read port: 55666
+1698378913421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55653/devtools/browser/aa733082-af48-4d6e-82a5-0f458dc0de2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698378942844	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698378950739	Marionette	INFO	Stopped listening on port 55666
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new AbortError("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+console.error: (new Error("IndexedDB: main/devtools-devices getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698379101933	geckodriver	INFO	Listening on 127.0.0.1:55847
+1698379104974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5584 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileTLVjrA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698379105281	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698379105344	Marionette	INFO	Listening on port 55858
+WebDriver BiDi listening on ws://127.0.0.1:55848
+Read port: 55858
+1698379105501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55848/devtools/browser/05068039-1bdc-45c3-9404-2dc8e590188d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698379135665	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698379143967	Marionette	INFO	Stopped listening on port 55858
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/regions getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698379448680	geckodriver	INFO	Listening on 127.0.0.1:56117
+1698379451707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5611 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileWg19rH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698379452248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698379452309	Marionette	INFO	Listening on port 56129
+WebDriver BiDi listening on ws://127.0.0.1:56118
+Read port: 56129
+1698379452481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56118/devtools/browser/3c7d849a-dd01-41d8-9af4-fac23b20242d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698379477723	Marionette	INFO	Stopped listening on port 56129
+Dynamically enable window occlusion 1
+1698379785744	geckodriver	INFO	Listening on 127.0.0.1:56355
+1698379788819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5635 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileqIGk92"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698379789087	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698379789143	Marionette	INFO	Listening on port 56364
+WebDriver BiDi listening on ws://127.0.0.1:56356
+Read port: 56364
+1698379789276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56356/devtools/browser/fe4f0e8c-d477-4ddd-96ba-29bc6471b974
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698379814100	Marionette	INFO	Stopped listening on port 56364
+Dynamically enable window occlusion 1
+1698380321752	geckodriver	INFO	Listening on 127.0.0.1:56584
+1698380324826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5658 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileeuKR2Y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698380325129	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698380325183	Marionette	INFO	Listening on port 56592
+WebDriver BiDi listening on ws://127.0.0.1:56585
+Read port: 56592
+1698380325329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56585/devtools/browser/2a3df9ae-99d6-4944-aafd-c8b5026e8ed3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698380355588	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698520505373	geckodriver	INFO	Listening on 127.0.0.1:52245
+1698520508460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5224 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Cliente\\AppData\\Local\\Temp\\rust_mozprofileJVvoZ1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698520508757	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698520508829	Marionette	INFO	Listening on port 52255
+WebDriver BiDi listening on ws://127.0.0.1:52246
+Read port: 52255
+1698520509038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52246/devtools/browser/30b80528-e387-440a-8606-41b5b2d6e3f3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esaj.tjsp.jus.br."
+1698520524626	Marionette	INFO	Stopped listening on port 52255
+Dynamically enable window occlusion 1
